@@ -1,0 +1,19 @@
+$body-color: whitesmoke;
+
+body {
+    background-color: $body-color;
+}
+
+/* Anidamiento
+header {
+    background-color: $body-color;
+    nav {
+        padding: 20px;
+        ul {
+            list-style: circle;
+            li {
+                text-decoration: underline;
+            }
+        }
+    }
+}*/
