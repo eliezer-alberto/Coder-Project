@@ -1,0 +1,19 @@
+.img-fluid {
+  padding: 20px;
+  width: 100%;
+  align-items: center;
+}
+
+.contact-form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding: 50px;
+}
+
+section {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 100px 100px;
+}
